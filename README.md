@@ -7,14 +7,17 @@ This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) 
 
 2. Install [dotfiles](https://github.com/diessica/dotfiles) (*instructions available in the repository*), which includes my OS X's preferences, cool CLIs, terminal tweaks and a lot of utils.
 
-3. Install applications from [applications.sh](https://raw.githubusercontent.com/diessica/setup/master/applications.sh): `$ ./applications.sh`.
+3. Install applications
 
-  > :exclamation: **Make sure to...**<br>
-  > Move apps from `/opt/homebrew-cask/Caskroom/` to `/Applications`.<br>
-  > Remove installation files from `/Library/Caches/Homebrew`.
+  3.1. from [applications.sh](https://raw.githubusercontent.com/diessica/setup/master/applications.sh): `$ ./applications.sh`.
+    > :exclamation: **Make sure to...**<br>
+    > Move apps from `/opt/homebrew-cask/Caskroom/` to `/Applications`.<br>
+    > Remove installation files from `/Library/Caches/Homebrew`.
+
+  3.2. that are missing, and should be installed manually ([list](https://github.com/diessica/setup#manual)).
 
 4. Generate SSH keys (*instructions on [GitHub's official guide](https://help.github.com/articles/generating-ssh-keys/#platform-mac)*).
-
+5. Set [npm](https://npmjs.org) user: `$ npm adduser diessica`
 
 ## applications
 
