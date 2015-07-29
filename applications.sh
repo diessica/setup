@@ -13,6 +13,7 @@ brew cask install opera-next
 # System tools and tweaks
 brew cask install flashlight
 brew cask install macclean
+brew cask install the-unarchiver
 
 # Productivity tools
 brew cask install google-drive
