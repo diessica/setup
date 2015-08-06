@@ -15,7 +15,7 @@ This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) 
     > Move apps from `/opt/homebrew-cask/Caskroom/` to `/Applications`.<br>
     > Remove installation files from `/Library/Caches/Homebrew`.
 
-  2.2. that require manual installation ([view list](https://github.com/diessica/setup#manual)).
+  2.2. that require manual installation ([view list](https://github.com/diessica/setup#to-install-manually)).
 3. Install [dotfiles](https://github.com/diessica/dotfiles), following the instructions available in its repository.
 4. Generate SSH keys (*instructions on [GitHub's official guide](https://help.github.com/articles/generating-ssh-keys/#platform-mac)*).
 5. Download [IE virtual machines](http://dev.modern.ie/tools/vms/mac).
