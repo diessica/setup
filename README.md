@@ -43,6 +43,9 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 * Screenflow
 * [Spectacle](http://spectacleapp.com) (or [Magnet](https://itunes.apple.com/app/window-magnet/id441258766)?)
 * Transmit
+* CleanMyMac 3
+* [Helium](http://jadengeller.github.io/Helium)
+* [CheatSheet](http://www.mediaatelier.com/CheatSheet)
 
 ### fonts
 ###### Through [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts)
