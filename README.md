@@ -46,6 +46,7 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 * CleanMyMac 3
 * [Helium](http://jadengeller.github.io/Helium)
 * [CheatSheet](http://www.mediaatelier.com/CheatSheet)
+* Bartender
 
 ### fonts
 ###### Through [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts)
