@@ -31,15 +31,18 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 
 ###### To install manually
 
+* Alfred Workflows
 * Airmail 2
 * Fantastical 2
 * Sketch 3
-* Wunderlist
-* KakaoTalk
+* [Display Menu](https://itunes.apple.com/app/display-menu/id549083868)
+* [Wunderlist](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)
+* [KakaoTalk](https://itunes.apple.com/app/kakaotalk-messenger/id869223134)
 * CloudApp
 * Adobe Fireworks CS6
 * Screenflow
-* Magnet
+* [Spectacle](http://spectacleapp.com) (or [Magnet](https://itunes.apple.com/app/window-magnet/id441258766)?)
+* Transmit
 
 ### fonts
 ###### Through [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts)
