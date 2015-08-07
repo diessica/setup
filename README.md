@@ -41,7 +41,6 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 * CloudApp
 * Adobe Fireworks CS6
 * Screenflow
-* [Spectacle](http://spectacleapp.com) (or [Magnet](https://itunes.apple.com/app/window-magnet/id441258766)?)
 * Transmit
 * CleanMyMac 3
 * [Helium](http://jadengeller.github.io/Helium)
