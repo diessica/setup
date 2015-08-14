@@ -1,11 +1,8 @@
-# Fonts
-font-inconsolata
+# General fonts
 font-cagliostro
 font-droid-sans
-font-droid-sans-mono
 font-exo
 font-fontawesome
-font-inconsolata
 font-lato
 font-open-sans
 font-pt-sans
@@ -15,3 +12,5 @@ font-ubuntu
 
 # Programming fonts
 font-source-code-pro
+font-droid-sans-mono
+font-inconsolata

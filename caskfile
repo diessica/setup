@@ -1,6 +1,6 @@
 # Experimental browsers
 chrome-canary
-firefox-aurora
+firefoxdeveloperedition
 opera-next
 
 # Development and design tools
@@ -27,12 +27,11 @@ the-unarchiver
 flycut
 google-drive
 raindrop
-typora
 spectacle
+typora
 
 # Media and communication
 android-file-transfer
-beardedspice
 lastfm
 skype
 slack

@@ -7,7 +7,7 @@ This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) 
    ```bash
    $ sudo softwareupdate -i -r
   ```
- 
+
 2. Install applications...
 
   2.1. through Cask: `$ sh install` ([view install file](install)).
@@ -17,11 +17,10 @@ This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) 
 
   2.2. that require manual installation ([view list](https://github.com/diessica/setup#to-install-manually)).
 3. Install [dotfiles](https://github.com/diessica/dotfiles), following the instructions available in its repository.
-4. Generate SSH keys (*instructions on [GitHub's official guide](https://help.github.com/articles/generating-ssh-keys/#platform-mac)*).
-5. Download [IE virtual machines](http://dev.modern.ie/tools/vms/mac).
+4. Download [IE virtual machines](http://dev.modern.ie/tools/vms/mac).
 
 ## what's in the box?
-Graphical applications and fonts, both installed through Cask. Notice that **command line software** is installed only by [dotfiles](https://github.com/diessica/dotfiles)' installer, through Brew. 
+Graphical applications and fonts, both installed through Cask. Notice that **command line software** is installed only by [dotfiles](https://github.com/diessica/dotfiles)' installer, through Brew.
 
 ### applications
 
