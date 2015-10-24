@@ -36,7 +36,6 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 * Sketch 3
 * [Display Menu](https://itunes.apple.com/app/display-menu/id549083868)
 * [Wunderlist](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)
-* [KakaoTalk](https://itunes.apple.com/app/kakaotalk-messenger/id869223134)
 * CloudApp
 * Adobe Fireworks CS6
 * Screenflow
