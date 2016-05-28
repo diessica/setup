@@ -1,5 +1,5 @@
 # setup!
-This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) *(important stuff there!)* and [favourites](https://github.com/diessica/favourites), on **OS X Yosemite**. I have a 13.3" Macbook Pro, which I sometimes like to put in my backpack - just because.
+This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) *(important stuff there!)* and [favourites](https://github.com/diessica/favourites). I have a 13.3" Macbook Pro running **OS X El Capitan**. 
 
 
 ## brick by brick...
@@ -20,7 +20,7 @@ This is my life, along with [my dotfiles](https://github.com/diessica/dotfiles) 
 4. Download [IE virtual machines](http://dev.modern.ie/tools/vms/mac).
 
 ## what's in the box?
-Graphical applications and fonts, both installed through Cask. Notice that **command line software** is installed only by [dotfiles](https://github.com/diessica/dotfiles)' installer, through Brew.
+Graphical applications and fonts, both installed through Cask. 
 
 ### applications
 
@@ -30,18 +30,11 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 
 ###### To install manually
 
-* Alfred Workflows
-* Airmail 2
 * Fantastical 2
 * Sketch 3
 * [Display Menu](https://itunes.apple.com/app/display-menu/id549083868)
 * [Wunderlist](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)
-* CloudApp
-* Adobe Fireworks CS6
-* Screenflow
-* Transmit
 * CleanMyMac 3
-* [Helium](http://jadengeller.github.io/Helium)
 * [CheatSheet](http://www.mediaatelier.com/CheatSheet)
 * Bartender
 
