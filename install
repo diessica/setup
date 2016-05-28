@@ -17,8 +17,7 @@ fi
 echo "→ Installing applications..."
 
 # Set up Cask, for Homebrew
-brew tap phinze/homebrew-cask
-brew install brew-cask
+brew tap caskroom/cask
 
 # Set up Caskroom-versions, which allows apps' alternative versions, like Canary
 brew tap caskroom/versions
