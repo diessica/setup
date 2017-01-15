@@ -32,11 +32,7 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 
 * Fantastical 2
 * Sketch 3
-* [Display Menu](https://itunes.apple.com/app/display-menu/id549083868)
 * [Wunderlist](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)
-* CleanMyMac 3
-* [CheatSheet](http://www.mediaatelier.com/CheatSheet)
-* Bartender
 
 ### fonts
 ###### Through [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts)
