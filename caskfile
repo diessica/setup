@@ -1,5 +1,5 @@
-# Experimental browsers
-chrome-canary
+# Browsers
+google-chrome
 firefoxdeveloperedition
 
 # Development and design tools
@@ -9,13 +9,18 @@ sublime-text3
 
 # System tools and tweaks
 the-unarchiver
+qbittorrent
 
 # Productivity tools
 spectacle
+ticktick
+keepingyouawake
 
 # Media and communication
 jumpshare
 slack
+spotify
+telegram-desktop
 
 # QuickLook plugins
 qlcolorcode
