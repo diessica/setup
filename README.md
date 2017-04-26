@@ -1,4 +1,6 @@
 # setup!
+> :warning: **DEPRECATED.** Please refer to [my dotfiles repo](https://github.com/diessica/dotfiles).
+
 This, along with [my dotfiles](https://github.com/diessica/dotfiles), is my life on a 13.3" Macbook Pro running **OS X El Capitan**. 
 
 
