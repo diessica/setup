@@ -6,7 +6,7 @@ This, along with [my dotfiles](https://github.com/diessica/dotfiles), is my life
 1. Check for **Software Updates**: <br>
    ```bash
    $ sudo softwareupdate -i -r
-  ```
+   ```
 
 2. Install applications...
 
