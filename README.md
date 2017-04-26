@@ -29,7 +29,6 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 
 * Fantastical 2
 * Sketch 3
-* [Wunderlist](https://itunes.apple.com/app/wunderlist-to-do-list-tasks/id410628904)
 
 ### fonts
 ###### Through [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts)
