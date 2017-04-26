@@ -10,9 +10,10 @@ This, along with [my dotfiles](https://github.com/diessica/dotfiles), is my life
 
 2. Install applications...
 
-  2.1. through Cask: `$ sh install` ([view install file](install)).
+   2.1. through Cask: `$ sh install` ([view install file](install)).
   
-  2.2. that require manual installation ([view list](https://github.com/diessica/setup#to-install-manually)).
+   2.2. that require manual installation ([view list](https://github.com/diessica/setup#to-install-manually)).
+
 3. Install [dotfiles](https://github.com/diessica/dotfiles), following the instructions available in its repository.
 
 ## what's in the box?
