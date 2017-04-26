@@ -29,6 +29,7 @@ Refer to [`caskfile`](caskfile) for the list of applications.
 
 * Fantastical 2
 * Sketch 3
+* [Spark](https://sparkmailapp.com)
 
 ### fonts
 ###### Through [Caskroom-fonts](https://github.com/caskroom/homebrew-fonts)
