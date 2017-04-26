@@ -1,35 +1,21 @@
 # Experimental browsers
 chrome-canary
 firefoxdeveloperedition
-opera-next
 
 # Development and design tools
 imagealpha
 imageoptim
-iterm2
 sublime-text3
 
 # System tools and tweaks
-appzapper
-archiver
-flashlight
-macclean
-rename
 the-unarchiver
 
 # Productivity tools
-flycut
-google-drive
-raindrop
 spectacle
-typora
 
 # Media and communication
 jumpshare
-noizio
 slack
-vlc
-mojibar
 
 # QuickLook plugins
 qlcolorcode
